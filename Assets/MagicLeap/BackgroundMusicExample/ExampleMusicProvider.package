@@ -1,0 +1,3 @@
+
+USES =  "../../../../../iconTest/scenes"  "../../../../../iconTest/pipeline/cache/AssetManifest" 
+REFS = ExampleMusicProvider

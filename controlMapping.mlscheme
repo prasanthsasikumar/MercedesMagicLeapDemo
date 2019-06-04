@@ -1,0 +1,92 @@
+{
+  "ConfigurationSettings": {
+    "Action-InputControllerButtonBumper": [
+      {
+        "Input": "KeyCode-KP_7",
+        "Sensitivity": 1
+      }
+    ],
+    "Action-InputControllerButtonHomeTap": [
+      {
+        "Input": "KeyCode-KP_8",
+        "Sensitivity": 1
+      }
+    ],
+    "Action-MoveHeadposeNegX": [
+      {
+        "Input": "KeyCode-Left"
+      }
+    ],
+    "Action-MoveHeadposeNegY": [
+      {
+        "Input": "KeyCode-Q"
+      }
+    ],
+    "Action-MoveHeadposeNegZ": [
+      {
+        "Input": "KeyCode-W"
+      }
+    ],
+    "Action-MoveHeadposePosX": [
+      {
+        "Input": "KeyCode-Right"
+      }
+    ],
+    "Action-MoveHeadposePosY": [
+      {
+        "Input": "KeyCode-E"
+      }
+    ],
+    "Action-MoveHeadposePosZ": [
+      {
+        "Input": "KeyCode-S"
+      }
+    ],
+    "Action-MoveHeadposeZ": [
+      {
+        "Input": "MouseMove-ScrollWheelY"
+      }
+    ],
+    "Action-RotateHeadposeNegY": [
+      {
+        "Input": "KeyCode-A"
+      }
+    ],
+    "Action-RotateHeadposePosY": [
+      {
+        "Input": "KeyCode-D"
+      }
+    ],
+    "Action-RotateHeadposeX": [
+      {
+        "Input": "MouseMove-DeltaY"
+      }
+    ],
+    "Action-RotateHeadposeY": [
+      {
+        "Input": "MouseMove-DeltaX"
+      }
+    ],
+    "Action-RotateHeadposeZ": [
+      {
+        "Input": "MouseMove-ScrollWheelX"
+      }
+    ],
+    "ActionInputLabels": {
+      
+    },
+    "ActiveConfigurationPath": "C:\\Users\\psas598\\Desktop\\Mercedes\\controlMapping.mlscheme",
+    "BindingsVersion": 2,
+    "DeviceType": "keyboardMouse",
+    "InputControllerID": 0,
+    "KeySensitivity": 0.1000000014901161,
+    "MaxRotation": 1,
+    "MaxTranslation": 1,
+    "MouseSensitivity-ScrollWheelY": -1,
+    "OS": "Any"
+  },
+  "DeviceLabel": "Peripheral - Key/Mouse",
+  "DeviceName": "PeripheralKeyMouseSparseDevice",
+  "DeviceType": "Peripheral",
+  "ManifestType": "Configuration"
+}

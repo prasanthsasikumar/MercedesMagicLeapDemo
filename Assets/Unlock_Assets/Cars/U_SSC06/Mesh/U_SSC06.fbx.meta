@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: d58e9721dba28b5468864fc5dfbdb6bc
+timeCreated: 1516207296
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CarBody
+    100002: Ilum
+    100004: interior
+    100006: Needles
+    100008: SteeringWheel
+    100010: U_SC06_Caliper_FL
+    100012: U_SC06_Caliper_FR
+    100014: U_SC06_Caliper_RL
+    100016: U_SC06_Caliper_RR
+    100018: //RootNode
+    100020: U_SSC06_aluminium_RearWing
+    100022: U_SSC06_black_BV
+    100024: U_SSC06_blackDetails
+    100026: U_SSC06_BrakeLight_ON
+    100028: U_SSC06_bv_SW
+    100030: U_SSC06_carbonfiber_interior
+    100032: U_SSC06_cardetails
+    100034: U_SSC06_carPaint
+    100036: U_SSC06_carPaint_rearWing
+    100038: U_SSC06_carRoof
+    100040: U_SSC06_chrome
+    100042: U_SSC06_chrome 1
+    100044: U_SSC06_chrome_SW
+    100046: U_SSC06_FrontLight_ON
+    100048: U_SSC06_interiorBlack
+    100050: U_SSC06_interiorDetails
+    100052: U_SSC06_interiorDetails_SW
+    100054: U_SSC06_Leather
+    100056: U_SSC06_Leather_SW
+    100058: U_SSC06_lightDetails
+    100060: U_SSC06_lightGlass
+    100062: U_SSC06_lights
+    100064: U_SSC06_plasticPanel
+    100066: U_SSC06_plasticPanel_SW
+    100068: U_SSC06_RedLeather
+    100070: U_SSC06_ReverseLight_ON
+    100072: U_SSC06_RpmNeedle
+    100074: U_SSC06_Seam
+    100076: U_SSC06_Seam_SW
+    100078: U_SSC06_speedNeedle
+    100080: U_SSC06_tire_FL
+    100082: U_SSC06_tire_FR
+    100084: U_SSC06_tire_RL
+    100086: U_SSC06_tire_RR
+    100088: U_SSC06_transpIcons
+    100090: U_SSC06_transpIcons_rearWing
+    100092: U_SSC06_transpIcons_SW
+    100094: U_SSC06_wheel_FL
+    100096: U_SSC06_wheel_FR
+    100098: U_SSC06_wheel_RL
+    100100: U_SSC06_wheel_RR
+    100102: U_SSC06_Windows
+    100104: wheel_FL
+    100106: wheel_FR
+    100108: wheel_RL
+    100110: wheel_RR
+    100112: wheels
+    100114: U_SSC06_mirrors
+    400000: CarBody
+    400002: Ilum
+    400004: interior
+    400006: Needles
+    400008: SteeringWheel
+    400010: U_SC06_Caliper_FL
+    400012: U_SC06_Caliper_FR
+    400014: U_SC06_Caliper_RL
+    400016: U_SC06_Caliper_RR
+    400018: //RootNode
+    400020: U_SSC06_aluminium_RearWing
+    400022: U_SSC06_black_BV
+    400024: U_SSC06_blackDetails
+    400026: U_SSC06_BrakeLight_ON
+    400028: U_SSC06_bv_SW
+    400030: U_SSC06_carbonfiber_interior
+    400032: U_SSC06_cardetails
+    400034: U_SSC06_carPaint
+    400036: U_SSC06_carPaint_rearWing
+    400038: U_SSC06_carRoof
+    400040: U_SSC06_chrome
+    400042: U_SSC06_chrome 1
+    400044: U_SSC06_chrome_SW
+    400046: U_SSC06_FrontLight_ON
+    400048: U_SSC06_interiorBlack
+    400050: U_SSC06_interiorDetails
+    400052: U_SSC06_interiorDetails_SW
+    400054: U_SSC06_Leather
+    400056: U_SSC06_Leather_SW
+    400058: U_SSC06_lightDetails
+    400060: U_SSC06_lightGlass
+    400062: U_SSC06_lights
+    400064: U_SSC06_plasticPanel
+    400066: U_SSC06_plasticPanel_SW
+    400068: U_SSC06_RedLeather
+    400070: U_SSC06_ReverseLight_ON
+    400072: U_SSC06_RpmNeedle
+    400074: U_SSC06_Seam
+    400076: U_SSC06_Seam_SW
+    400078: U_SSC06_speedNeedle
+    400080: U_SSC06_tire_FL
+    400082: U_SSC06_tire_FR
+    400084: U_SSC06_tire_RL
+    400086: U_SSC06_tire_RR
+    400088: U_SSC06_transpIcons
+    400090: U_SSC06_transpIcons_rearWing
+    400092: U_SSC06_transpIcons_SW
+    400094: U_SSC06_wheel_FL
+    400096: U_SSC06_wheel_FR
+    400098: U_SSC06_wheel_RL
+    400100: U_SSC06_wheel_RR
+    400102: U_SSC06_Windows
+    400104: wheel_FL
+    400106: wheel_FR
+    400108: wheel_RL
+    400110: wheel_RR
+    400112: wheels
+    400114: U_SSC06_mirrors
+    2100000: U_SSC06_carbonfiber_shdr
+    2100002: U_SSC06_RedLeather_shdr
+    2100004: U_SSC06_Leather_shdr
+    2100006: U_SSC06_chrome_shdr
+    2100008: U_SSC06_black_BV_shdr
+    2100010: U_SSC06_Seam_shdr
+    2100012: U_SSC06_interiorDetails_shdr
+    2100014: U_SSC06_transpIcons_shdr
+    2100016: U_SSC06_plasticPanel_shdr
+    2100018: U_SSC06_black_shdr
+    2100020: U_SSC06_carPaint_shdr
+    2100022: U_SSC06_aluminium_shdr
+    2100024: U_SSC06_windows_shdr
+    2100026: U_SSC06_lightGlass_shdr
+    2100028: U_SSC06_lights_shdr
+    2100030: U_SSC06_cardetails_shdr
+    2100032: U_SSC06_lights_ON_shdr
+    2100034: U_SSC06_wheels_Details_shdr
+    2100036: U_SSC06_wheel_shdr
+    2300000: U_SC06_Caliper_FL
+    2300002: U_SC06_Caliper_FR
+    2300004: U_SC06_Caliper_RL
+    2300006: U_SC06_Caliper_RR
+    2300008: U_SSC06_aluminium_RearWing
+    2300010: U_SSC06_black_BV
+    2300012: U_SSC06_blackDetails
+    2300014: U_SSC06_BrakeLight_ON
+    2300016: U_SSC06_bv_SW
+    2300018: U_SSC06_carbonfiber_interior
+    2300020: U_SSC06_cardetails
+    2300022: U_SSC06_carPaint
+    2300024: U_SSC06_carPaint_rearWing
+    2300026: U_SSC06_carRoof
+    2300028: U_SSC06_chrome
+    2300030: U_SSC06_chrome 1
+    2300032: U_SSC06_chrome_SW
+    2300034: U_SSC06_FrontLight_ON
+    2300036: U_SSC06_interiorBlack
+    2300038: U_SSC06_interiorDetails
+    2300040: U_SSC06_interiorDetails_SW
+    2300042: U_SSC06_Leather
+    2300044: U_SSC06_Leather_SW
+    2300046: U_SSC06_lightDetails
+    2300048: U_SSC06_lightGlass
+    2300050: U_SSC06_lights
+    2300052: U_SSC06_plasticPanel
+    2300054: U_SSC06_plasticPanel_SW
+    2300056: U_SSC06_RedLeather
+    2300058: U_SSC06_ReverseLight_ON
+    2300060: U_SSC06_RpmNeedle
+    2300062: U_SSC06_Seam
+    2300064: U_SSC06_Seam_SW
+    2300066: U_SSC06_speedNeedle
+    2300068: U_SSC06_tire_FL
+    2300070: U_SSC06_tire_FR
+    2300072: U_SSC06_tire_RL
+    2300074: U_SSC06_tire_RR
+    2300076: U_SSC06_transpIcons
+    2300078: U_SSC06_transpIcons_rearWing
+    2300080: U_SSC06_transpIcons_SW
+    2300082: U_SSC06_wheel_FL
+    2300084: U_SSC06_wheel_FR
+    2300086: U_SSC06_wheel_RL
+    2300088: U_SSC06_wheel_RR
+    2300090: U_SSC06_Windows
+    2300092: U_SSC06_mirrors
+    3300000: U_SC06_Caliper_FL
+    3300002: U_SC06_Caliper_FR
+    3300004: U_SC06_Caliper_RL
+    3300006: U_SC06_Caliper_RR
+    3300008: U_SSC06_aluminium_RearWing
+    3300010: U_SSC06_black_BV
+    3300012: U_SSC06_blackDetails
+    3300014: U_SSC06_BrakeLight_ON
+    3300016: U_SSC06_bv_SW
+    3300018: U_SSC06_carbonfiber_interior
+    3300020: U_SSC06_cardetails
+    3300022: U_SSC06_carPaint
+    3300024: U_SSC06_carPaint_rearWing
+    3300026: U_SSC06_carRoof
+    3300028: U_SSC06_chrome
+    3300030: U_SSC06_chrome 1
+    3300032: U_SSC06_chrome_SW
+    3300034: U_SSC06_FrontLight_ON
+    3300036: U_SSC06_interiorBlack
+    3300038: U_SSC06_interiorDetails
+    3300040: U_SSC06_interiorDetails_SW
+    3300042: U_SSC06_Leather
+    3300044: U_SSC06_Leather_SW
+    3300046: U_SSC06_lightDetails
+    3300048: U_SSC06_lightGlass
+    3300050: U_SSC06_lights
+    3300052: U_SSC06_plasticPanel
+    3300054: U_SSC06_plasticPanel_SW
+    3300056: U_SSC06_RedLeather
+    3300058: U_SSC06_ReverseLight_ON
+    3300060: U_SSC06_RpmNeedle
+    3300062: U_SSC06_Seam
+    3300064: U_SSC06_Seam_SW
+    3300066: U_SSC06_speedNeedle
+    3300068: U_SSC06_tire_FL
+    3300070: U_SSC06_tire_FR
+    3300072: U_SSC06_tire_RL
+    3300074: U_SSC06_tire_RR
+    3300076: U_SSC06_transpIcons
+    3300078: U_SSC06_transpIcons_rearWing
+    3300080: U_SSC06_transpIcons_SW
+    3300082: U_SSC06_wheel_FL
+    3300084: U_SSC06_wheel_FR
+    3300086: U_SSC06_wheel_RL
+    3300088: U_SSC06_wheel_RR
+    3300090: U_SSC06_Windows
+    3300092: U_SSC06_mirrors
+    4300000: U_SSC06_carbonfiber_interior
+    4300002: U_SSC06_RedLeather
+    4300004: U_SSC06_Leather
+    4300006: U_SSC06_chrome
+    4300008: U_SSC06_black_BV
+    4300010: U_SSC06_Seam
+    4300012: U_SSC06_interiorDetails
+    4300014: U_SSC06_transpIcons
+    4300016: U_SSC06_transpIcons_SW
+    4300018: U_SSC06_bv_SW
+    4300020: U_SSC06_Leather_SW
+    4300022: U_SSC06_Seam_SW
+    4300024: U_SSC06_interiorDetails_SW
+    4300026: U_SSC06_chrome_SW
+    4300028: U_SSC06_plasticPanel_SW
+    4300030: U_SSC06_RpmNeedle
+    4300032: U_SSC06_speedNeedle
+    4300034: U_SSC06_interiorBlack
+    4300036: U_SSC06_plasticPanel
+    4300038: U_SSC06_blackDetails
+    4300040: U_SSC06_carPaint_rearWing
+    4300042: U_SSC06_transpIcons_rearWing
+    4300044: U_SSC06_aluminium_RearWing
+    4300046: U_SSC06_carPaint
+    4300048: U_SSC06_carRoof
+    4300050: U_SSC06_Windows
+    4300052: U_SSC06_lightGlass
+    4300054: U_SSC06_lights
+    4300056: U_SSC06_cardetails
+    4300058: U_SSC06_lightDetails
+    4300060: U_SSC06_chrome
+    4300062: U_SSC06_BrakeLight_ON
+    4300064: U_SSC06_ReverseLight_ON
+    4300066: U_SSC06_FrontLight_ON
+    4300068: U_SSC06_tire_RL
+    4300070: U_SSC06_wheel_RL
+    4300072: U_SC06_Caliper_RL
+    4300074: U_SSC06_tire_FL
+    4300076: U_SSC06_wheel_FL
+    4300078: U_SC06_Caliper_FL
+    4300080: U_SSC06_tire_RR
+    4300082: U_SSC06_wheel_RR
+    4300084: U_SC06_Caliper_RR
+    4300086: U_SSC06_tire_FR
+    4300088: U_SSC06_wheel_FR
+    4300090: U_SC06_Caliper_FR
+    4300092: U_SSC06_mirrors
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_Leather_shdr
+    second: {fileID: 2100000, guid: 1b7e225ef5087cf488b365186b733d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_RedLeather_shdr
+    second: {fileID: 2100000, guid: 095d0986446bcac4d98dd5b4200c537d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_Seam_shdr
+    second: {fileID: 2100000, guid: 187bb8c9bacb466419194d496a0b6ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_aluminium_shdr
+    second: {fileID: 2100000, guid: c52c5c10dc616734cbc01ae3457b206e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_black_BV_shdr
+    second: {fileID: 2100000, guid: 99d2b26b5824b2c4f897755a13f0f7c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_black_shdr
+    second: {fileID: 2100000, guid: 44cc093e8d2128748b4c9ceeb212eee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_carPaint_shdr
+    second: {fileID: 2100000, guid: 68a9cf867de15b341a170b2a860c01fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_carbonfiber_shdr
+    second: {fileID: 2100000, guid: 2865c69c5eaafc648ae3bc72abd18d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_cardetails_shdr
+    second: {fileID: 2100000, guid: 8e1294ff5b6b1f048ba35178b68dca89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_chrome_shdr
+    second: {fileID: 2100000, guid: dbdc8ed84262cf846affe32626ab4906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_interiorDetails_shdr
+    second: {fileID: 2100000, guid: 8ee300fe75297e047a9d8da600baf1f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_lightGlass_shdr
+    second: {fileID: 2100000, guid: aa467792cf263d1429a5101e0aad89e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_lights_ON_shdr
+    second: {fileID: 2100000, guid: 94117eb39b16ec740be3bdd1dfebd5fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_lights_shdr
+    second: {fileID: 2100000, guid: 2088c836261d8f3479fb3c5b6a8e3d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_plasticPanel_shdr
+    second: {fileID: 2100000, guid: b0f709e988d896144a85144e6f419339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_transpIcons_shdr
+    second: {fileID: 2100000, guid: ab4b678da6226f7488350eaf6e703396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_wheel_shdr
+    second: {fileID: 2100000, guid: 30876d7769869c64bb9424edaacd4f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_wheels_Details_shdr
+    second: {fileID: 2100000, guid: 6bb2ca15f7d91754b96d7a46305e6b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: U_SSC06_windows_shdr
+    second: {fileID: 2100000, guid: 0e2926e2627a82642bc0bf19dd6e9aaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.546
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

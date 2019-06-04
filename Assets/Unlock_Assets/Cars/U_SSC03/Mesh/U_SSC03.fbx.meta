@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 81b12c5422478420a92325979cc72fa0
+timeCreated: 1513477117
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ilum
+    100002: Interior_Hi
+    100004: SteeringWheel_Mesh
+    100006: //RootNode
+    100008: U_SSC03_Caliper_F
+    100010: U_SSC03_Caliper_F 1
+    100012: U_SSC03_Caliper_R
+    100014: U_SSC03_Caliper_R 1
+    100016: U_SSC03_CarBody_Black
+    100018: U_SSC03_CarBody_Black1
+    100020: U_SSC03_CarBody_brakeLight_RearWing_ON
+    100022: U_SSC03_CarBody_brakeLights_ON
+    100024: U_SSC03_CarBody_CarbonFiber
+    100026: U_SSC03_CarBody_CarBotton
+    100028: U_SSC03_CarBody_Chrome
+    100030: U_SSC03_CarBody_Chrome 1
+    100032: U_SSC03_CarBody_Chrome1
+    100034: U_SSC03_CarBody_frontLights_ON
+    100036: U_SSC03_CarBody_Grille
+    100038: U_SSC03_CarBody_wingRear
+    100040: U_SSC03_CarPaint
+    100042: U_SSC03_DarkWindows
+    100044: U_SSC03_interior_Back
+    100046: U_SSC03_Interior_Black
+    100048: U_SSC03_Interior_CarbonFiber
+    100050: U_SSC03_Interior_Details
+    100052: U_SSC03_Interior_Grill
+    100054: U_SSC03_Interior_Leather
+    100056: U_SSC03_Interior_Leather1
+    100058: U_SSC03_Interior_LeatherSeam
+    100060: U_SSC03_Interior_LeatherSeam1
+    100062: U_SSC03_interior_low
+    100064: U_SSC03_Interior_RearView
+    100066: U_SSC03_Interior_SteeringWheel_Black
+    100068: U_SSC03_Interior_SteeringWheel_CarbonFiber
+    100070: U_SSC03_Interior_SteeringWheel_Leather
+    100072: U_SSC03_Interior_SteeringWheelSeam
+    100074: U_SSC03_Lights
+    100076: U_SSC03_Lights_Glass
+    100078: U_SSC03_Rear_Wing
+    100080: U_SSC03_RearView
+    100082: U_SSC03_RearWingBase
+    100084: U_SSC03_RearWingLights
+    100086: U_SSC03_Reverse_brakeLights_ON
+    100088: U_SSC03_Rotor
+    100090: U_SSC03_Rotor 1
+    100092: U_SSC03_Rotor 2
+    100094: U_SSC03_Rotor 3
+    100096: U_SSC03_Tire
+    100098: U_SSC03_Tire 1
+    100100: U_SSC03_Tire 2
+    100102: U_SSC03_Tire 3
+    100104: U_SSC03_Wheel1
+    100106: U_SSC03_Wheel1 1
+    100108: U_SSC03_Wheel1 2
+    100110: U_SSC03_Wheel2
+    100112: U_SSC03_windows
+    100114: Wheel_FL
+    100116: Wheel_FR
+    100118: Wheel_RL
+    100120: Wheel_RR
+    100122: Wheels
+    400000: ilum
+    400002: Interior_Hi
+    400004: SteeringWheel_Mesh
+    400006: //RootNode
+    400008: U_SSC03_Caliper_F
+    400010: U_SSC03_Caliper_F 1
+    400012: U_SSC03_Caliper_R
+    400014: U_SSC03_Caliper_R 1
+    400016: U_SSC03_CarBody_Black
+    400018: U_SSC03_CarBody_Black1
+    400020: U_SSC03_CarBody_brakeLight_RearWing_ON
+    400022: U_SSC03_CarBody_brakeLights_ON
+    400024: U_SSC03_CarBody_CarbonFiber
+    400026: U_SSC03_CarBody_CarBotton
+    400028: U_SSC03_CarBody_Chrome
+    400030: U_SSC03_CarBody_Chrome 1
+    400032: U_SSC03_CarBody_Chrome1
+    400034: U_SSC03_CarBody_frontLights_ON
+    400036: U_SSC03_CarBody_Grille
+    400038: U_SSC03_CarBody_wingRear
+    400040: U_SSC03_CarPaint
+    400042: U_SSC03_DarkWindows
+    400044: U_SSC03_interior_Back
+    400046: U_SSC03_Interior_Black
+    400048: U_SSC03_Interior_CarbonFiber
+    400050: U_SSC03_Interior_Details
+    400052: U_SSC03_Interior_Grill
+    400054: U_SSC03_Interior_Leather
+    400056: U_SSC03_Interior_Leather1
+    400058: U_SSC03_Interior_LeatherSeam
+    400060: U_SSC03_Interior_LeatherSeam1
+    400062: U_SSC03_interior_low
+    400064: U_SSC03_Interior_RearView
+    400066: U_SSC03_Interior_SteeringWheel_Black
+    400068: U_SSC03_Interior_SteeringWheel_CarbonFiber
+    400070: U_SSC03_Interior_SteeringWheel_Leather
+    400072: U_SSC03_Interior_SteeringWheelSeam
+    400074: U_SSC03_Lights
+    400076: U_SSC03_Lights_Glass
+    400078: U_SSC03_Rear_Wing
+    400080: U_SSC03_RearView
+    400082: U_SSC03_RearWingBase
+    400084: U_SSC03_RearWingLights
+    400086: U_SSC03_Reverse_brakeLights_ON
+    400088: U_SSC03_Rotor
+    400090: U_SSC03_Rotor 1
+    400092: U_SSC03_Rotor 2
+    400094: U_SSC03_Rotor 3
+    400096: U_SSC03_Tire
+    400098: U_SSC03_Tire 1
+    400100: U_SSC03_Tire 2
+    400102: U_SSC03_Tire 3
+    400104: U_SSC03_Wheel1
+    400106: U_SSC03_Wheel1 1
+    400108: U_SSC03_Wheel1 2
+    400110: U_SSC03_Wheel2
+    400112: U_SSC03_windows
+    400114: Wheel_FL
+    400116: Wheel_FR
+    400118: Wheel_RL
+    400120: Wheel_RR
+    400122: Wheels
+    2300000: U_SSC03_Caliper_F
+    2300002: U_SSC03_Caliper_F 1
+    2300004: U_SSC03_Caliper_R
+    2300006: U_SSC03_Caliper_R 1
+    2300008: U_SSC03_CarBody_Black
+    2300010: U_SSC03_CarBody_Black1
+    2300012: U_SSC03_CarBody_brakeLight_RearWing_ON
+    2300014: U_SSC03_CarBody_brakeLights_ON
+    2300016: U_SSC03_CarBody_CarbonFiber
+    2300018: U_SSC03_CarBody_CarBotton
+    2300020: U_SSC03_CarBody_Chrome
+    2300022: U_SSC03_CarBody_Chrome 1
+    2300024: U_SSC03_CarBody_Chrome1
+    2300026: U_SSC03_CarBody_frontLights_ON
+    2300028: U_SSC03_CarBody_Grille
+    2300030: U_SSC03_CarBody_wingRear
+    2300032: U_SSC03_CarPaint
+    2300034: U_SSC03_DarkWindows
+    2300036: U_SSC03_interior_Back
+    2300038: U_SSC03_Interior_Black
+    2300040: U_SSC03_Interior_CarbonFiber
+    2300042: U_SSC03_Interior_Details
+    2300044: U_SSC03_Interior_Grill
+    2300046: U_SSC03_Interior_Leather
+    2300048: U_SSC03_Interior_Leather1
+    2300050: U_SSC03_Interior_LeatherSeam
+    2300052: U_SSC03_Interior_LeatherSeam1
+    2300054: U_SSC03_interior_low
+    2300056: U_SSC03_Interior_RearView
+    2300058: U_SSC03_Interior_SteeringWheel_Black
+    2300060: U_SSC03_Interior_SteeringWheel_CarbonFiber
+    2300062: U_SSC03_Interior_SteeringWheel_Leather
+    2300064: U_SSC03_Interior_SteeringWheelSeam
+    2300066: U_SSC03_Lights
+    2300068: U_SSC03_Lights_Glass
+    2300070: U_SSC03_RearView
+    2300072: U_SSC03_RearWingBase
+    2300074: U_SSC03_RearWingLights
+    2300076: U_SSC03_Reverse_brakeLights_ON
+    2300078: U_SSC03_Rotor
+    2300080: U_SSC03_Rotor 1
+    2300082: U_SSC03_Rotor 2
+    2300084: U_SSC03_Rotor 3
+    2300086: U_SSC03_Tire
+    2300088: U_SSC03_Tire 1
+    2300090: U_SSC03_Tire 2
+    2300092: U_SSC03_Tire 3
+    2300094: U_SSC03_Wheel1
+    2300096: U_SSC03_Wheel1 1
+    2300098: U_SSC03_Wheel1 2
+    2300100: U_SSC03_Wheel2
+    2300102: U_SSC03_windows
+    3300000: U_SSC03_Caliper_F
+    3300002: U_SSC03_Caliper_F 1
+    3300004: U_SSC03_Caliper_R
+    3300006: U_SSC03_Caliper_R 1
+    3300008: U_SSC03_CarBody_Black
+    3300010: U_SSC03_CarBody_Black1
+    3300012: U_SSC03_CarBody_brakeLight_RearWing_ON
+    3300014: U_SSC03_CarBody_brakeLights_ON
+    3300016: U_SSC03_CarBody_CarbonFiber
+    3300018: U_SSC03_CarBody_CarBotton
+    3300020: U_SSC03_CarBody_Chrome
+    3300022: U_SSC03_CarBody_Chrome 1
+    3300024: U_SSC03_CarBody_Chrome1
+    3300026: U_SSC03_CarBody_frontLights_ON
+    3300028: U_SSC03_CarBody_Grille
+    3300030: U_SSC03_CarBody_wingRear
+    3300032: U_SSC03_CarPaint
+    3300034: U_SSC03_DarkWindows
+    3300036: U_SSC03_interior_Back
+    3300038: U_SSC03_Interior_Black
+    3300040: U_SSC03_Interior_CarbonFiber
+    3300042: U_SSC03_Interior_Details
+    3300044: U_SSC03_Interior_Grill
+    3300046: U_SSC03_Interior_Leather
+    3300048: U_SSC03_Interior_Leather1
+    3300050: U_SSC03_Interior_LeatherSeam
+    3300052: U_SSC03_Interior_LeatherSeam1
+    3300054: U_SSC03_interior_low
+    3300056: U_SSC03_Interior_RearView
+    3300058: U_SSC03_Interior_SteeringWheel_Black
+    3300060: U_SSC03_Interior_SteeringWheel_CarbonFiber
+    3300062: U_SSC03_Interior_SteeringWheel_Leather
+    3300064: U_SSC03_Interior_SteeringWheelSeam
+    3300066: U_SSC03_Lights
+    3300068: U_SSC03_Lights_Glass
+    3300070: U_SSC03_RearView
+    3300072: U_SSC03_RearWingBase
+    3300074: U_SSC03_RearWingLights
+    3300076: U_SSC03_Reverse_brakeLights_ON
+    3300078: U_SSC03_Rotor
+    3300080: U_SSC03_Rotor 1
+    3300082: U_SSC03_Rotor 2
+    3300084: U_SSC03_Rotor 3
+    3300086: U_SSC03_Tire
+    3300088: U_SSC03_Tire 1
+    3300090: U_SSC03_Tire 2
+    3300092: U_SSC03_Tire 3
+    3300094: U_SSC03_Wheel1
+    3300096: U_SSC03_Wheel1 1
+    3300098: U_SSC03_Wheel1 2
+    3300100: U_SSC03_Wheel2
+    3300102: U_SSC03_windows
+    4300000: U_SSC03_CarPaint
+    4300002: U_SSC03_CarBody_CarbonFiber
+    4300004: U_SSC03_CarBody_Grille
+    4300006: U_SSC03_CarBody_Black
+    4300008: U_SSC03_CarBody_Black1
+    4300010: U_SSC03_RearView
+    4300012: U_SSC03_CarBody_CarBotton
+    4300014: U_SSC03_CarBody_Chrome
+    4300016: U_SSC03_CarBody_brakeLights_ON
+    4300018: U_SSC03_CarBody_frontLights_ON
+    4300020: U_SSC03_Reverse_brakeLights_ON
+    4300022: U_SSC03_Lights_Glass
+    4300024: U_SSC03_windows
+    4300026: U_SSC03_DarkWindows
+    4300028: U_SSC03_interior_low
+    4300030: U_SSC03_Lights
+    4300032: U_SSC03_Interior_RearView
+    4300034: U_SSC03_Interior_Black
+    4300036: U_SSC03_Interior_Leather
+    4300038: U_SSC03_Interior_LeatherSeam
+    4300040: U_SSC03_Interior_Grill
+    4300042: U_SSC03_Interior_CarbonFiber
+    4300044: U_SSC03_Interior_Details
+    4300046: U_SSC03_Interior_Leather1
+    4300048: U_SSC03_Interior_LeatherSeam1
+    4300050: U_SSC03_interior_Back
+    4300052: U_SSC03_Interior_SteeringWheel_Black
+    4300054: U_SSC03_Interior_SteeringWheel_Leather
+    4300056: U_SSC03_Interior_SteeringWheel_CarbonFiber
+    4300058: U_SSC03_Interior_SteeringWheelSeam
+    4300060: U_SSC03_Caliper_R
+    4300062: U_SSC03_Rotor
+    4300064: U_SSC03_Tire
+    4300066: U_SSC03_Wheel1
+    4300068: U_SSC03_Caliper_F
+    4300070: U_SSC03_Rotor
+    4300072: U_SSC03_Tire
+    4300074: U_SSC03_Wheel1
+    4300076: U_SSC03_Caliper_R
+    4300078: U_SSC03_Rotor
+    4300080: U_SSC03_Tire
+    4300082: U_SSC03_Wheel2
+    4300084: U_SSC03_Caliper_F
+    4300086: U_SSC03_Rotor
+    4300088: U_SSC03_Tire
+    4300090: U_SSC03_Wheel1
+    4300092: U_SSC03_RearWingBase
+    4300094: U_SSC03_CarBody_wingRear
+    4300096: U_SSC03_CarBody_Chrome
+    4300098: U_SSC03_CarBody_brakeLight_RearWing_ON
+    4300100: U_SSC03_RearWingLights
+    4300102: U_SSC03_CarBody_Chrome1
+    7400000: RearWing
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RearWing
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.543
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,303 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "84c2a9a77e83a9d61870c33ac7ef15f8c8828e83",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "62fa494cef0ced59d09ec2822929202735e83398",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2828432,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "662ebe24621d86d5adc3d47c6a9b4e3440347b9b",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 34534592,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4bf5ad16b46ec14f968a57c1fc75c3202f4644d9",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\libil2cpp.so-003ef52c6f715a0f",
+   "xfrm_size": 34535350
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a96d79c69b540bb806cb485b1b4d517d70ef923f",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\AudioPluginMSASpatializer.so-e372380974df1715",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ebffb27536ad9adf3bd873c9c25b418273d174f5",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\UnityMagicLeap.so-e372380974df1715",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "da1c312f9db539840a71e4038bd409a1f522e58a",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\libml_camera_plugin.so-e372380974df1715",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b1ae5f64d527095231fff9b11227f56a092446d7",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\libml_mediaplayer_plugin.so-e372380974df1715",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "eed4bbd4f01abc65c2852012647e4ba89afed185",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 394396,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
+   "pkgpath": "Data/boot.config",
+   "size": 55,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "a2a921f7d78db6880cb76c1d90d27588b21df234",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35480,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "1ea8ec0d7731dbf76baf78289fb0561c75da44be",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 37632,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "e648442d74981b195985b98028bc4facad948709",
+   "pkgpath": "Data/level0",
+   "size": 84500,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "708bf8e3059603c1dd2f12c582dd7a374fdd4960",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1df2e1c6ba1722b9e6cbc79109c0b5775765aafb",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 11741208,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "24b2877474c2d08a520acc4faa9cf57a989b931b",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 20651304,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c25f3bc5327bbaa1f6c2253b2348ee7d2dd867bf",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 517600,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "37657195304703a25bce32399be8fb4cb137e5af",
+   "pkgpath": "Icon/Portal/portal.fbx",
+   "size": 47296,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Icon/Portal/portal.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "672a9938249aab09b762f844a38b67693eaa8bde",
+   "pkgpath": "Icon/Portal/portal.kmat",
+   "size": 326,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Icon/Portal/portal.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "8fa3b5889efa9207fd128d2a1977390a03e30fb0",
+   "pkgpath": "Icon/Portal/portal.png",
+   "size": 34964,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Icon/Portal/portal.png"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/psas598/Desktop/Mercedes/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1756cd360daf99e15359e6cc2c82f256343ff110",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\Player.elf-7b6693535a0eaf12",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/psas598/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8585ed8a4ba0768b5449068bf425b9ab9eaa3286",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\libc++_shared.so-d0b1579b23cea273",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "f8ac32581aec87f21d4d772abf2fbae4ad039ffb",
+   "pkgpath": "manifest.xml",
+   "size": 888,
+   "src": "C:\\Users\\psas598\\Desktop\\Mercedes\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "89f19be01d3bd55d712748e402cb7c42a19d83a6",
+     "developer_id": "c27ed55a-3c57-4508-8d98-5e1e767d33cb"
+    }
+   },
+   "xfrm_hash": "cde94545eb83a0f9126852bb84f9cb5d666f0a47",
+   "xfrm_path": "C:/Users/psas598/Desktop/Mercedes/.out/.cache/release_lumin_clang-3.8_aarch64/com.abi.ecl-c7c5623ebf88fda9\\manifest.xml-7b6693535a0eaf12",
+   "xfrm_size": 900
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\psas598\\Downloads\\mercedesDemo\\mercedesdemo.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

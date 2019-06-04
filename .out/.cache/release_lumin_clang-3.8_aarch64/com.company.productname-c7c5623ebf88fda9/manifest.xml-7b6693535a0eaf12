@@ -1,0 +1,9 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="c27ed55a-3c57-4508-8d98-5e1e767d33cb" ml:package="com.company.productname" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="Mercedes">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="WorldReconstruction" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Mercedes">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
